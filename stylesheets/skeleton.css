@@ -1,0 +1,96 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+
+/* Table of Contents
+==================================================
+    #Base 960 Grid
+    #Tablet (Portrait)
+    #Mobile (Portrait)
+    #Mobile (Landscape)
+    #Clearing */
+
+
+
+/* #Base 960 Grid
+================================================== */
+
+/* Smartphone Portrait */
+@media only screen and (min-width:320px) {
+    .container {
+        position: relative;
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .grid {
+        line-height: 0;
+    }
+
+    .grid-fullToHalf {
+        width: 100%;
+    }
+
+    .grid-4To6To3To4 {
+        overflow: hidden;
+    }
+
+    .grid-4To6To3To4 .grid {
+        width: 31.3333%;
+        margin: 1%;
+    }
+}
+
+/* Smartphone Landscape */
+@media only screen and (min-width:480px) {
+
+    .grid-4To6To3To4 .grid {
+        width: 19%;
+        margin: .5%;
+    }
+}
+
+/* Micro-tablets */
+@media only screen and (min-width:600px) {
+
+    .grid-container {
+        overflow: hidden;
+    }
+
+    .grid-fullToHalf {
+        float: left;
+        width: 50%;
+    }
+
+    .grid-4To6To3To4 .grid {
+        width: 31.3334%;
+        margin: 1%;
+    }
+
+}
+
+/* Tablet portrait */
+@media only screen and (min-width:820px) {
+
+    .grid-4To6To3To4 .grid {
+        width: 23%;
+        margin: 1%;
+    }
+
+}
+
+/* Tablet Landscape / Desktop */
+@media only screen and (min-width:1024px) {
+
+    .grid-4To6To3To4 .grid {
+        width: 18%;
+        margin: 1%;
+    }
+}
