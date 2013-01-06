@@ -363,7 +363,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4776,
+				"buffer_size": 5093,
 				"line_ending": "Unix"
 			}
 		}
@@ -400,6 +400,7 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/bt_portfolio/index.html",
 		"/Users/biggs/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Applications/MAMP/htdocs/panasonic/klm/site-media/css/klm.css",
 		"/Applications/MAMP/htdocs/panasonic/klm/eng/site-media/html/home.html",
@@ -526,8 +527,7 @@
 		"/Applications/MAMP/htdocs/PanaAirPortal/includes/footer_banner.php",
 		"/Applications/MAMP/htdocs/PanaAirPortal/includes/footer_banner_2.php",
 		"/Applications/MAMP/htdocs/PanaAirPortal/includes/footer_banner_5.php",
-		"/Applications/MAMP/htdocs/panaair_portal/template-extv.php",
-		"/Applications/MAMP/htdocs/PanaAirPortal/includes/head_scripts.php"
+		"/Applications/MAMP/htdocs/panaair_portal/template-extv.php"
 	],
 	"find":
 	{
@@ -744,7 +744,7 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 4776,
+						"buffer_size": 5093,
 						"regions":
 						{
 						},
