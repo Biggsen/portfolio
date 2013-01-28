@@ -363,7 +363,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5093,
+				"buffer_size": 5399,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stylesheets/layout.css",
+			"settings":
+			{
+				"buffer_size": 8444,
 				"line_ending": "Unix"
 			}
 		}
@@ -383,7 +391,7 @@
 				"Code Folding: Fold Tag Attributes"
 			]
 		],
-		"width": 498.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -400,6 +408,8 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/bt_portfolio/stylesheets/skeleton.css",
+		"/Applications/MAMP/htdocs/bt_portfolio/fonts/stylesheet.css",
 		"/Applications/MAMP/htdocs/bt_portfolio/index.html",
 		"/Users/biggs/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Applications/MAMP/htdocs/panasonic/klm/site-media/css/klm.css",
@@ -525,9 +535,7 @@
 		"/Applications/MAMP/htdocs/panaairportal/build/target/template-entertainment.php",
 		"/Applications/MAMP/htdocs/panaairportal/build/target/template-shopping.php",
 		"/Applications/MAMP/htdocs/PanaAirPortal/includes/footer_banner.php",
-		"/Applications/MAMP/htdocs/PanaAirPortal/includes/footer_banner_2.php",
-		"/Applications/MAMP/htdocs/PanaAirPortal/includes/footer_banner_5.php",
-		"/Applications/MAMP/htdocs/panaair_portal/template-extv.php"
+		"/Applications/MAMP/htdocs/PanaAirPortal/includes/footer_banner_2.php"
 	],
 	"find":
 	{
@@ -744,15 +752,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 5093,
+						"buffer_size": 5399,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								435,
+								435
 							]
 						],
 						"settings":
@@ -766,6 +774,37 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "stylesheets/layout.css",
+					"settings":
+					{
+						"buffer_size": 8444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8066,
+								8066
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3885.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -822,6 +861,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"lay",
+				"stylesheets/layout.css"
+			],
+			[
+				"cs",
+				"stylesheets/skeleton.css"
+			],
 			[
 				"airport",
 				"eng/site-media/html/destinations_airport.html"
@@ -1116,7 +1163,7 @@
 		[
 			[
 				"",
-				"/Applications/MAMP/htdocs/panasonic/afr/afr.sublime-project"
+				"/Applications/MAMP/htdocs/readgest/readgest.sublime-project"
 			]
 		],
 		"width": 380.0
