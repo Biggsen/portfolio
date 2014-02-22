@@ -239,6 +239,13 @@ h3 {
 @media only screen and (min-width:1024px) {}
 
 
+.logos-link img { 
+    -webkit-transition: all .2s ease-in-out;
+}
+
+.logos-link:hover img { 
+    -webkit-transform: translate(0,-5px) rotate(-1deg) scale(1.1);
+}
 
 
 
